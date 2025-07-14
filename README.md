@@ -31,33 +31,15 @@ Key features include:
 ## 🚀 How to Get Started
 
 ```bash
-git clone https://github.com/your-username/disaster-cctv-llm.git
-cd disaster-cctv-llm
+git clone https://github.com/your-username/cctv-disaster-llm.git
+cd cctv-disaster-llm
 pip install -r requirements.txt
 ```
 
-Then:
-
-1. Place your CCTV frame images in `data/input/`  
-2. Run `analyze.py` to generate disaster reports  
-3. Use `report_formatter.py` to output structured results  
-4. (Optional) Connect outputs to map overlays or public dashboards
-
-Sample command:
-
-```bash
-python analyze.py --input data/input/frame_20250714_035214.jpg --output reports/
-```
-
----
-
 ## ❓ Where to Get Help
 
-- GitHub Issues tab: [https://github.com/your-username/disaster-cctv-llm/issues](#)
+- GitHub Issues tab: [https://github.com/your-username/cctv-disaster-llm/issues](#)
 - Discussions tab for use-case sharing and ideation  
-- For regional dataset sources, refer to:  
-  - Kanto Regional Development Bureau: [http://www.ktr.mlit.go.jp](http://www.ktr.mlit.go.jp)  
-  - Kyushu Bureau: [http://www.qsr.mlit.go.jp](http://www.qsr.mlit.go.jp)
 
 ---
 
