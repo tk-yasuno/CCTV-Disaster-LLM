@@ -28,27 +28,11 @@ Key features include:
 
 ---
 
-## 🚀 How to Get Started
-
-```bash
-git clone https://github.com/your-username/cctv-disaster-llm.git
-cd cctv-disaster-llm
-pip install -r requirements.txt
-```
-
-## ❓ Where to Get Help
-
-- GitHub Issues tab: [https://github.com/your-username/cctv-disaster-llm/issues](#)
-- Discussions tab for use-case sharing and ideation  
-
----
-
 ## 🛠 Maintainers and Contributors
 
 | Name     | Role              | Contact             |
 |----------|-------------------|---------------------|
 | Takato   | Maintainer & Lead | [GitHub Profile](#) |
-| TBD      | Contributor       | ―                   |
 
 Pull requests and collaboration proposals are welcome — please include a summary of your intended enhancement or dataset integration.
 
