@@ -32,7 +32,7 @@ Key features include:
 
 | Name     | Role              | Contact             |
 |----------|-------------------|---------------------|
-| Takato   | Maintainer & Lead | [GitHub Profile](#) |
+| Takato   | Maintainer & Lead | https://www.linkedin.com/in/yasunotkt/|
 
 Pull requests and collaboration proposals are welcome — please include a summary of your intended enhancement or dataset integration.
 
