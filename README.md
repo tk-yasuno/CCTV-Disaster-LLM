@@ -1,7 +1,5 @@
 # LLM-based Disaster Detection Using Live CCTV
 
-本プロジェクト用の **README.md** テンプレート案です。GitHubでの公開に向け、構造・内容を一般的なオープンソースの慣習に沿って整理しています：
-
 ---
 
 # 🌐 LLM-based Disaster Detection Using Live CCTV
