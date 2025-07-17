@@ -1,7 +1,3 @@
-# LLM-based Disaster Detection Using Live CCTV
-
----
-
 # 🌐 LLM-based Disaster Detection Using Live CCTV
 
 ## 📌 What This Project Does
