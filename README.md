@@ -12,7 +12,12 @@ Key features include:
 
 ## 🧠 Multi-modal LLM-based Feasibility Studies
 - Test1 images:claude-3-5-sonnet-20240620,
-- Test2 images:Qwen/Qwen2-VL-2B-Instruct. 
+- Test2 images:Qwen/Qwen2-VL-2B-Instruct.
+
+### 🖼️ Sample Images for Feasibility Tests
+- Test Stream: Captured from live CCTV footage, provided by the Kanto Regional Development Bureau (Japan).
+- Keyword Search: Retrieved via web image search using the query “flood CCTV image”.
+
 ---
 
 ## 💡 Why This Project Is Useful
