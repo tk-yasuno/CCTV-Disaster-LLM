@@ -6,10 +6,13 @@ This project enables the detection and interpretation of environmental threats (
 Key features include:
 
 - 🔍 Disaster keyword extraction from time-lapse CCTV imagery  
-- 🧠 Semantic analysis of frame descriptions via LLMs  
+- 🧠 Semantic analysis of frame descriptions via Multi-modal LLMs
 - 🧮 Disaster scoring & severity classification  
 - 📄 Report generation for civic response and public sharing (e.g., LinkedIn-ready summaries)
 
+## 🧠 Multi-modal LLM-based Feasibility Studies
+- Test1 images:claude-3-5-sonnet-20240620,
+- Test2 images:Qwen/Qwen2-VL-2B-Instruct. 
 ---
 
 ## 💡 Why This Project Is Useful
